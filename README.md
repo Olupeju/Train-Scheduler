@@ -11,5 +11,5 @@ Accepts user input to add new train name, start time and frequency to schedule. 
 . Firebase
 . Moment.js
 
-<img src="images/Image.PNG" width = 400>
+<img src="assets/images/Image.PNG" width = 400>
 
